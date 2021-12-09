@@ -1,0 +1,14 @@
+{
+  "name": "launchdarkly-msw-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "launchdarkly-node-server-sdk": "^6.2.0",
+    "msw": "^0.36.2"
+  },
+  "resolutions": {
+    "@mswjs/interceptors": "0.13.0"
+  }
+}
